@@ -26,7 +26,7 @@ UI: **react bootstrap**, **react router bootstrap**
 Dev: nodemon, concurrently
 
 ## The version: 
-The base is completed. Work in progress.
+Completed.
 
 ## The online demo: 
 [**DEMO**](https://hyfproshopapp.herokuapp.com/)
